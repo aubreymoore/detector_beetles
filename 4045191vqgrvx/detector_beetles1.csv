@@ -1,0 +1,35 @@
+beetle_id,frequency,rel_site,Notes,lat2,lon2,t2,extended_track_bearing,end_point_located,in_tree,breeding_site,flight_test_date,Sex,Length,Width,Weight
+2968,148.641,Asan,weak signal coming from swamp across from Asan Park; swamp,13.473933,144.708633,2015-08-11 09:18,180.0,False,,,2015-08-10,f,21.17,16.47,2.641
+2977,148.671,Asan,Found at base of coco tree; just off beach,13.474933,144.70875,2015-08-11,,True,False,,2015-08-10,f,21.83,16.99,3.622
+2991,148.693,Asan,Lost west over hill,13.472575,144.707141,2015-08-12 19:58:50,270.0,False,,,2015-08-11,m,25.86,20.63,5.774
+2981,148.703,Asan,Lost west over hill; no track,,,,270.0,False,,,2015-08-10,f,24.94,18.96,5.206
+2971,148.732,Yigo,top of coconut tree adjust GPS,13.535104,144.873882,2015-08-12 11:00,,True,True,,2015-08-10,m,22.36,17.55,3.087
+2929,148.752,,lost; no track,,,2015-08-10,,False,,,2015-08-05,f,25.41,20.29,4.22
+2985,148.764,Asan,out of range; towards road,13.473374,144.708416,2015-08-10 21:01,180.0,False,,,2015-08-10,f,22.8,18.07,4.017
+2963,148.782,Yigo,under trailer in the dirt; no track,13.529393,144.870394,2015-08-12 12:36,,True,False,,2015-08-10,m,20.33,16.28,3.179
+2952,148.792,Yigo,beetle in breadfruit tree; 2952?; wooded,13.530583,144.8724,2015-08-10 09:30,,True,True,True,2015-08-05,f,24.07,18.67,4.229
+2978,148.82,Yigo,faint signal in woods; no track,13.52985,144.8723,2015-08-11 20:58,196.44,False,,,2015-08-10,m,25.22,20.15,5.213
+2982,148.851,Yigo,"under barrel #12, saw beetle, left beetle",13.532033,144.873467,2015-08-12 09:18,,True,False,,2015-08-10,m,23.47,18.75,4.672
+2987,148.873,Asan,base of coconut,13.474723,144.708906,2015-08-13,,True,False,,2015-08-11,f,23.31,18.31,3.758
+2970,148.873,Yigo,"found beetle in soil, transmitter ~20 cm away, retrieved beetle; transmitter reused??",13.53225,144.870383,2015-08-12 10:00,,True,False,,2015-08-10,m,21.6,17.02,3.411
+2931,148.902,Yigo,"out of range, toward highschool? East; no track",,,2015-08-10,135.0,False,,,2015-08-05,m,24.36,18.6,4.367
+2958,148.932,Yigo,in coconut tree with 6+ bore holes; wooded,13.530546,144.870442,2015-08-11 11:00,,True,True,,2015-08-05,f,25.76,19.16,5.009
+2974,148.963,Yigo,"edge of dense woods, up high; wooded; no track",13.529167,144.872683,2015-08-11 19:31,181.72,False,True,,2015-08-10,m,22.59,17.97,3.562
+2976,148.972,Asan,"Damaged wing, lost west over hill; no track",,,,270.0,False,,,2015-08-10,m,23.63,18.4,3.803
+2962,148.992,Asan,Coconut top,13.473946,144.708144,2015-06-13,,True,True,,2015-08-10,m,26.73,21.19,6.041
+2980,164.032,Asan,in damaged coco tree crown,13.47315,144.70831,2015-08-11 08:56,,True,True,,2015-08-10,m,25.96,20.97,5.951
+2989,164.058,Asan,Same place in coco crown,13.473707,144.711533,,,True,True,,2015-08-11,m,24.97,19.96,5.329
+2951,164.082,,Lost east; no coordnates recorded,,,,90.0,False,,,2015-08-05,f,24.9,19.14,5.025
+2967,164.107,Asan,in damaged coco tree crown,13.47316,144.70833,2015-08-11 08:54,,True,True,,2015-08-10,f,23.4,18.15,4.208
+2972,164.132,Yigo,lost into dense brush,13.53251,144.87166,2015-08-12 11:07,318.0,False,,,2015-08-10,f,25.31,19.82,4.433
+2964,164.157,Asan,on top of large coco tree on beach across the hill Asan Park,13.47121,144.70636,2015-08-11,,True,True,,2015-08-10,f,24.03,18.71,4.211
+2988,164.182,Asan,Found beetl under barrel trap. breedin site,13.475751,144.707832,,,True,False,True,2015-08-11,f,26.41,21.01,6.439
+2949,164.208,Yigo,in heavily damaged coco tree over fence; wooded,13.53323,144.87376,2015-08-12 09:00,,True,True,,2015-08-05,m,26.15,20.9,5.942
+2979,164.232,Asan,Lost at indicated coordinates; went out of range,13.47444,144.70845,2015-08-10,351.03,False,False,,2015-08-10,m,24.31,19.01,4.563
+2983,164.258,Asan,In or around base of small coco tree,13.47365,144.71275,2015-08-11 09:07,,True,False,,2015-08-10,f,22.07,17.35,4.126
+2975,164.282,Asan,On top of big coco tree,13.473145,144.708264,,,True,True,,2015-08-10,m,23.82,18.39,3.91
+2969,164.307,,,,,,,False,,,2015-08-10,f,24.19,19.1,4.811
+2966,164.333,Yigo,In coco tree crown in private property; wooded,13.52973,144.87157,2015-08-12 11:43,,True,True,,2015-08-10,f,24.01,18.94,4.379
+2965,164.357,Asan,towards tall grass only up high,13.472615,144.707277,2015-08-13 11:20,180.0,False,True,,2015-08-10,f,22.13,17.13,2.989
+2944,164.382,Asan,Asan; Did not fly,,,,,,,,2015-08-05,m,22.93,17.73,2.881
+2973,164.409,Yigo,in brush line around base of small papy; wooded,13.53144,144.87161,2015-08-11 20:32,,True,False,,2015-08-10,m,21.25,16.5,3.289
