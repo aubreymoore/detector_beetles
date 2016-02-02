@@ -1,0 +1,15 @@
+# This dot file generates a png graph file using the command line:
+# dot -Tpng -O outcomes.dot
+
+digraph outcomes {
+"Total beetles released\n n = 34" -> "End point located\n n = 19";
+"Total beetles released\n n = 34" -> "Flew beyond detection\n range (>500m)\n n = 14";
+"Total beetles released\n n = 34" -> "Did not fly\n n = 1";
+"End point located\n n = 19" -> "In tree\n n = 11"
+"End point located\n n = 19" -> "On or below ground\n n = 8"
+"In tree\n n = 11" -> "In crown of\n coconut palm\n n = 10"
+"In tree\n n = 11" -> "In rotten\n breadfrut branch\n n = 1\n 1 breeding site"
+"On or below ground\n n = 8" -> "Near base of\n coconut palm\n n = 3"   
+"On or below ground\n n = 8" -> "Elsewhere on\n or below\n ground\n n = 3" 
+"On or below ground\n n = 8" -> "Under barrel\n supporting\n pheromone trap\n n = 2\n 1 breeding site"     
+}
