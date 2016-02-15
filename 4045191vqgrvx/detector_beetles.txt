@@ -111,8 +111,6 @@ tracking of mammals and birds has been employed for many years
 and recent progress in miniatuization of radio transmitters now 
 makes this technique available for insect studies. 
 
-  
-
   Materials and Methods
 
   Radio Tracking Equipment
@@ -359,7 +357,140 @@ biotypes. Results indicate that none of the currently available
 CRB trapping methods are usefull for population reduction of 
 CRB-Guam.
 
-  EXTRA
+  Acknowledgments
+
+Sheri Lee Smith, US Forest Service, War in the Pacific Park, 
+Roland Quitugua and staff of the Guam Coconut Rhinoceros Beetle 
+Project.
+
+
+
+
+References
+
+[Bedford 1980] Bedford, Geoffrey O, "Biology, ecology, and control of palm rhinoceros beetles", Annual Review of Entomology (1980), 309--339.
+
+[Catley 1969] Catley, A, "The coconut rhinoceros beetle Oryctes rhinoceros (L)", International Journal of Pest Management: Part A (1969), 18--30.
+
+[Gressitt 1953] Gressitt, Linsley J, "The coconut rhinoceros beetle (Oryctes rhinoceros) with particular reference to the Palau Islands", Bernice P. Bishop Museum (1953), 1--83.
+
+[Hallett et al. 1995] Hallett, Rebecca H and Perez, A L and Gries, G and Gries, R and H. D. Pierce, Jr and Yue, Junming and Oehlschlager, A C and..., "Hallett 1995 aggregation pheromone coconut rhinoceros beetle oryctes.pdf" (1995), 1549--1570.
+
+[Marshall et al. 2015] Marshall, Sean David Goldie and Vaqalo, Maclean and Moore, Aubrey and Quitugua, Roland and Jackson, Trevor A, "A new invasive biotype of the coconut rhinoceros beetle (Oryctes rhinoceros) has escaped from biocontrol by Oryctes rhinocer..." (2015).
+
+[Moore et al. 2015] Moore, Aubrey and Jackson, Trevor and Quitugua, Roland and Bassler, Paul and Campbell, Russell, "Coconut rhinoceros beetles ( Coleoptera : Scarabaeidae ) develop in arboreal breeding sites in Guam", Florida Entomologist (2015), 1012--1014.
+
+[Smith et al. 2008] Smith, Sheri Lee and Moore, Aubrey, "Early Detection Pest Risk Assessment Coconut Rhinoceros Beetle" (2008), 1--6.
+
+
+
+  
+BEGIN EXTRA
+
+The following stuff is from previous versions. Kept here for 
+reference and possible inclusion.
+
+The coconut rhinoceros beetle (CRB), Oryctes rhinoceros L. 
+(Coleoptera: Scarabaeidae: Dynastinae), is a serious pest of 
+coconut trees, Cocos nucifera L., and other palms throughout the 
+Pacific and Southeast Asia. CRB damage to coconut trees can 
+result in a mortality rate of up to 50% as reported in Palau (??, ??)
+. Although CRB damage does not always result in coconut tree 
+mortality, the characteristic V-cut damage to palm fronds can 
+adversely affect the aesthetic value of ornamental trees, which 
+is especially problematic in tourist areas. Such is the case in 
+Guam, where unmanaged palms show CRB damage in close to 100% of 
+the palms near the highly touristic Tumon waterfront area (Moore, 
+Jackson 2010).
+
+CRB damage to palms is caused almost exclusively by adult CRB 
+feeding in coconut tree crowns, with larvae causing little or no 
+economic damage as they feed on decaying plant material. 
+Typically, adult beetles bore into the apical meristematic tissue 
+of palm trees and feed on the base of unopened fronds, resulting 
+in V-cuts once fronds open (Bedford 2013, Hinckley 1973). Once 
+fed, adult CRB fly in search of breeding sites to mate. Adult CRB 
+generally repeat this cycle of feeding and mating until they can 
+no longer fly from feeding to breeding sites (Paper). This 
+behavioral pattern is problematic for pest management efforts 
+since CRB can breed in a wide range of locations, which tend to 
+be difficult to find (Bedford 2013, Hinckley 1973). Sources in 
+Malaysia and Guam have reported breeding sites in shredded palm 
+trunk material, palm frond debris, compost heaps, and dead palm 
+trunks, all of which are abundant in these tropical countries, 
+and this high abundance of breeding sites leads to higher damage 
+by CRB (Bedford 1976, Bedford 2013).
+
+CRB monitoring and control utilizes a number of management 
+techniques. These include biological control methods, which have 
+played an essential role in the control of CRB populations. 
+Biocontrol of CRB larvae mainly consists of using the fungal 
+species Metarhezium anisopline, which has been reported to 
+effectively control larvae populations (Arura 1984, Bedford 2013, 
+Ferron et al. 1974). On the other hand, adult CRB biocontrol 
+relies on the use of viral control agents. Infection with 
+Baculovirus oryctes has successfully decreased CRB populations in 
+various nations of Southeast Asia and the Pacific where infected 
+individuals were released (Bedford 1985, Lomer 1985, Gorick 
+1980). However, recent studies report that the Guam CRB biotype 
+has seemingly developed resistance to the viral control agent, 
+creating an even more dire situation for the control of CRB 
+(Moore, Jackson 2010).
+
+Traps and lures have also been employed in CRB monitoring and 
+surveillance efforts. Bioassay studies have reported several 
+lures that attract adult CRB. Of these lures, ethyl 
+4-methyloctanoate, the CRB aggregation pheromone, has had fairly 
+good results (PAPER, Vander Meer 1979, Vander Meer 1983). 
+However, traps utilizing this lure in Papua New Guinea have had 
+moderate success with an average of 131 CRB caught per trap over 
+a 19 week period (Bedford 1975). The situation is worse in Guam, 
+where trap systems have not provided successful control of CRB, 
+with catching rates as low as 0.0006 beetles per trap per day 
+(Moore, Jackson 2010). Finding and destroying breeding sites has 
+been an integral part of CRB eradication programs both in Guam 
+and in Hawaii. However, the cryptic nature of CRB breeding sites 
+makes them difficult to discover. Therefore, there is a pressing 
+necessity to develop methods to reliably discover cryptic CRB 
+breeding sites. Trained dogs have been utilized to detect pest 
+insect locations with olfactory cues in several studies with 
+moderate success (sources). However, the training of dogs is an 
+expensive process and may have limited usefulness for discovering 
+breeding sites in trees. Alternatively, predators/parasitoids or 
+conspecifics of pest insects have evolved superior sensory 
+systems to find either prey or mates in a complex natural 
+environment and are the most adequate agents to detect a species. 
+Following this idea, a novel way to detect pest insects in the 
+wild has been recently discovered. Swink (et al.) described the 
+use of the predatory wasp Cerceris fumipennis, a natural predator 
+of different beetles in the Buprestidae family, to specifically 
+monitor the emerald ash borer. Although this biological control 
+agent succeeded in capturing a large number of beetles, C. 
+fumipennis could not serve as a selective control agent as it 
+collected samples of 52 different species in 11 different genera 
+(Swink 2013). An obstacle to using conspecifics is the necessity 
+to have the capability of following the marked individual. This 
+problem is thoroughly addressed by using radio telemetry to 
+investigate insect populations and behavior. Rink and Sinsch have 
+utilized radio telemetry to study population migration and 
+connectivity of the stag beetle Lucanus Cervus in order to define 
+conservation efforts for the species (Rink and Sinsch 2007). 
+Similarly, Beaudoin-Olliver (et al.) has implemented radio 
+telemetry to successfully describe the flight behavior of the 
+species Scapanes australis of the Dynastinae subfamily, to which 
+CRB belongs (Beaudoin-Olliver 2003). In both of these cases, 
+radio telemetry proved to be able to successfully track 
+individual beetles, elucidating its potential use in the control 
+of insect pests with conspecifics.
+
+The semio-chemical communication adult CRB utilize to find mates 
+in breeding sites provide a prime opportunity to locate cryptic 
+breeding sites. This chemical communication signaling can be 
+exploited by using radio telemetry to follow adult CRB that are 
+seeking these cryptic breeding sites. This study seeks to develop 
+a control mechanism that uses laboratory-reared CRB equipped with 
+miniature radio-tracking devices to identify cryptic breeding 
+sites, which could then be treated, removed or destroyed.
 
 The tagging and radio tracking of CRB in this study led to the 
 successful location of multiple cryptic breeding sites at both 
@@ -568,32 +699,7 @@ control and eradication of CRB, and since traps and visual
 monitoring are already widespread, it would not be complicated to 
 craft an integrated strategic plan.
 
-  Acknowledgments
-
-Sheri Lee Smith, US Forest Service, War in the Pacific Park, 
-Roland Quitugua and staff of the Guam Coconut Rhinoceros Beetle 
-Project.
-
-
-
-
-References
-
-[Bedford 1980] Bedford, Geoffrey O, "Biology, ecology, and control of palm rhinoceros beetles", Annual Review of Entomology (1980), 309--339.
-
-[Catley 1969] Catley, A, "The coconut rhinoceros beetle Oryctes rhinoceros (L)", International Journal of Pest Management: Part A (1969), 18--30.
-
-[Gressitt 1953] Gressitt, Linsley J, "The coconut rhinoceros beetle (Oryctes rhinoceros) with particular reference to the Palau Islands", Bernice P. Bishop Museum (1953), 1--83.
-
-[Hallett et al. 1995] Hallett, Rebecca H and Perez, A L and Gries, G and Gries, R and H. D. Pierce, Jr and Yue, Junming and Oehlschlager, A C and..., "Hallett 1995 aggregation pheromone coconut rhinoceros beetle oryctes.pdf" (1995), 1549--1570.
-
-[Marshall et al. 2015] Marshall, Sean David Goldie and Vaqalo, Maclean and Moore, Aubrey and Quitugua, Roland and Jackson, Trevor A, "A new invasive biotype of the coconut rhinoceros beetle (Oryctes rhinoceros) has escaped from biocontrol by Oryctes rhinocer..." (2015).
-
-[Moore et al. 2015] Moore, Aubrey and Jackson, Trevor and Quitugua, Roland and Bassler, Paul and Campbell, Russell, "Coconut rhinoceros beetles ( Coleoptera : Scarabaeidae ) develop in arboreal breeding sites in Guam", Florida Entomologist (2015), 1012--1014.
-
-[Smith et al. 2008] Smith, Sheri Lee and Moore, Aubrey, "Early Detection Pest Risk Assessment Coconut Rhinoceros Beetle" (2008), 1--6.
-
-
+  END EXTRA
 
   
 
