@@ -12,7 +12,6 @@
 \usepackage{comment}
 \usepackage{authblk}
 
-
 \title{Discovering Cryptic Breeding Sites by Radio Tracking Coconut Rhinoceros Beetles, \textit{Oryctes rhinoceros} (Coleoptera: Scarabaeidae)}
 
 \author[1]{Diego ?. Barahona}
@@ -60,9 +59,10 @@ United States Department of Agricultural, 64 Nowelo St., Hilo, HI 96720, USA}
 \pdf_pdfborder true
 \pdf_colorlinks true
 \pdf_backref false
-\pdf_pdfusetitle true
+\pdf_pdfusetitle false
+\pdf_quoted_options "linkcolor=blue, urlcolor=blue, citecolor=blue"
 \papersize letterpaper
-\use_geometry false
+\use_geometry true
 \use_package amsmath 1
 \use_package amssymb 0
 \use_package cancel 0
@@ -86,6 +86,10 @@ United States Department of Agricultural, 64 Nowelo St., Hilo, HI 96720, USA}
 \shortcut idx
 \color #008000
 \end_index
+\leftmargin 1in
+\topmargin 1in
+\rightmargin 1in
+\bottommargin 1in
 \secnumdepth 3
 \tocdepth 3
 \paragraph_separation indent
@@ -161,34 +165,135 @@ Oryctes rhinoceros
  L., is a serious pest of coconut trees and other palms throughout Southeast
  Asia and on several Pacific Islands.
  Adults kill palms when they bore into crowns to feed on sap.
- Larvae feed only dead plant material at breeding sites.
+ Larvae feed only on dead plant material at breeding sites.
  Eradication is possible if all breeding sites are located and destroyed.
  A field trial was performed on Guam to test the feasibility of using radio-tagg
 ed adults to discover cryptic breeding sites.
- Of 33 radio-tagged beetles that were released, 19 were successfully tracked
- to landing sites, X of which were considered to be active or potential
+ Of 34 radio-tagged beetles that were released, 19 were successfully tracked
+ to landing sites, 14 were lost when they flew beyond the range of our receivers
+ and one beetle did not fly.
+ Two of the landing sites were confirmed breeding sites as indicated by
+ presence of other CRB at the same site.
+ Ten landing sites in coconut palm crowns were considered to be potential
  breeding sites.
- The remaining 14 beetles were lost when they flew beyond the range of our
- receivers.
  None of the radio-tagged beetles were caught in numerous pheromone traps
  near release sites.
+ Ten landing sites in coconut palm crowns were considered to be potential
+ breeding sites.
+\end_layout
+
+\begin_layout Standard
+Using animals to find aggregations of conspecifics is not a new idea.
+ For example, by exploiting the gregarious nature of goats, the Judas goat
+ method is a vital tool for detecting goats at low densities and a monitoring
+ tool to confirm eradication (Campbell and Dolan 2005).
+ Radiotelemetry collars are fitted to select goats, which are released and
+ allowed to seek out other goats.
+ Judas goats are then radio tracked, either on foot or by helicopter, and
+ accompanying goats are shot.
+ This approach allows the last individuals to be removed.
+ Judas goats have been used successfully in a number of island eradication
+ programs.
+ Recent development of light-weight, miniaturized radio-tracking transmitters
+ now allows application of this technique to insects and other small animals
+ which aggregate.
+ Here, we report on a field trial to determine the feasability of radio-tracking
+ coconut rhinoceros beetles (CRB), 
+\emph on
+Oryctes rhinoceros
+\emph default
+ (L.) (Coleoptera: Scarabaeidae) to find cryptic breeding site aggregations.
+\end_layout
+
+\begin_layout Standard
+CRB is a major pest of coconut palm, 
+\emph on
+Cocos nucifera
+\emph default
+ L.
+ (Arecales: Arecaceae).
+ Adult beetles defoliate and kill palms when they bore into crowns to feed
+ on sap.
+ When Pacific Islands are invaded by this pest, coconut palm mortality may
+ reach greater than 50% with in a few years 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Gressitt1953b"
+
+\end_inset
+
+.
+ In contrast to adults, CRB larvae feed on decaying vegetation and do no
+ economic damage.
+ CRB aggregate at breeding sites which include dead standing coconut palms,
+ fallen coconut logs, rotting coconut stumps and decaying wood of many tree
+ species.
+ They also are found in piles of compost, sawdust and manure where these
+ materials are available.
  
 \end_layout
 
-\begin_layout Section*
-Introduction
+\begin_layout Standard
+CRB first was detected in Guam in the Tumon Bay tourist hotel area in September,
+ 2007.
+ A delimiting survey indicated that the infestation was restricted to only
+ a small are of the island (<1,000 acres) and an eradication project was
+ launched 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Smith2008"
+
+\end_inset
+
+.
+ The project relied on mass trapping using pheromone traps to capture adults,
+ and sanitation to remove rotting vegetation used as breeding sites.
+ The traps were baited with the CRB aggregation pheromone, ethyl 4-methyloctanoa
+te (
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Hallett1995"
+
+\end_inset
+
+) commercially available as oryctalure (P046; ChemTica Iternacional, Heredia,
+ Costa Rica).
+ Four detector dogs were trained to assist in finding breeding sites on
+ the ground by sniffing out CRB grubs.
 \end_layout
 
-\begin_layout Subsection*
-Biology
-\end_layout
+\begin_layout Standard
+Despite these efforts, CRB damage in central Tumon Bay remained high and
+ the infestation spread to all parts of Guam by 2010 making eradication
+ unfeasable.
+ Attempts at population suppression using 
+\emph on
+Oryctes
+\emph default
+ nudivirus (OrNV), the preferred biocontrol agent for CRB, also failed.
+ It has recently been determined that the Guam CRB population is genetically
+ different from other populations in Asia and the Pacific and it is considered
+ to be a new invasive biotype of of CRB which has escaped from biocontrol
+ by OrNV 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Marshall2015a"
 
-\begin_layout Subsection*
-Guam Biotype
-\end_layout
+\end_inset
 
-\begin_layout Subsection*
-Eradication, detector dogs, etc.
+.
+ In addition to being resistant to all currently available isolates of OrNV,
+ it appears that the CRB-Guam biotype behaves differently.
+ CRB breeding sites are commonly found in coconut palm crowns on Guam but
+ only occasionally elsewhere 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Mooreb"
+
+\end_inset
+
+ and pheromone traps baited with oryctalure are not very attractive.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -197,13 +302,7 @@ Eradication of CRB from an island is difficult once this pest has become
  The only proven tactic for eradication of this pest is a vigorous sanitation
  program which discovers and destroys all active and potential breeding
  sites.
- Currently available pheromone traps, although useful for detection and
- surveillance, are not attractive enough to provide significant population
- suppression in mass trapping operations.
-\end_layout
-
-\begin_layout Standard
-The single successful CRB eradication to date occured on the tiny (36 km
+ The single successful CRB eradication to date occured on the tiny (36 km
 \begin_inset script superscript
 
 \begin_layout Plain Layout
@@ -216,32 +315,498 @@ The single successful CRB eradication to date occured on the tiny (36 km
  Samoa and Tonga, using sanitation alone 
 \begin_inset CommandInset citation
 LatexCommand citep
-key "Gressitt1953,catley1969coconut"
+key "Gressitt1953b,Catley1969"
 
 \end_inset
 
-.  
-\end_layout
-
-\begin_layout Standard
-However, mass trapping coupled with sanitation during 1971 through 1974
- failed to eradicate CRB on two islands in Fiji.  The eradication attempt
- was abandoned when it was determined that there was “a low but persistent
- population which could not be trapped.
+.  Currently available pheromone traps, although useful for detection and
+ surveillance, are not attractive enough to provide significant population
+ suppression in mass trapping operations.
+ Mass trapping coupled with sanitation during 1971 through 1974 failed to
+ eradicate CRB on two islands in Fiji.  The eradication attempt was abandoned
+ when it was determined that there was “a low but persistent population
+ which could not be trapped.
  ...
  It appeared that possible results from the indefinite continuation of the
  trial were no longer commensurate with the costs” 
 \begin_inset CommandInset citation
 LatexCommand citep
-key "Bedford1980"
+key "Bedford1980a"
 
 \end_inset
 
 .
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Check on these quotes
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+As previously mentioned, four detector dogs for CRB were trained and employed
+ for the first time on Guam.
+ The dogs were trained to sniff out CRB grubs and it was hoped that they
+ would enable us to find remaining, cryptic breeding sites in the final
+ stages of eradication.
+ The detector dogs were a very expensive component of the Guam CRB eradication
+ program and they were retired after two years of service when it became
+ evident that eradication was no longer feasable.
+\end_layout
+
+\begin_layout Standard
+In this article, we report results of a field trial intended to test the
+ concept of following radio-tagged CRB to cryptic breeding sites as an alternati
+ve to using detector dogs.
+ Radio tracking of mammals and birds has been employed for many years and
+ recent progress in miniatuization of radio transmitters now makes this
+ technique available for insect studies.
+ 
+\end_layout
+
+\begin_layout Section*
+Materials and Methods
 \end_layout
 
 \begin_layout Subsection*
-Extra
+Radio Tracking Equipment
+\end_layout
+
+\begin_layout Standard
+All radio tracking equipment was purchased from Advanced Telemetry Systems,
+ Isanti, Minnesota.
+ We used A2414 glue-on transmitters which weighed 300 mg.
+ Each of 32 transmitters used in the trial operated at a unique frequency
+ allowing us to track multiple targets simultaneously.
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+move next sentence to results?
+\end_layout
+
+\end_inset
+
+Two transmitters were reused on two different beetles.
+ 
+\end_layout
+
+\begin_layout Standard
+We used four R410 scanning receivers equiped with three-element folding
+ Yagi antennas (Fig.
+ 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Radio-tracking-reciever-and"
+
+\end_inset
+
+).
+ Two recievers operated in the 146 to 150 MHz frequency band and two operated
+ in the 162 to 166 MHz band.
+ 
+\end_layout
+
+\begin_layout Standard
+Each of the 4 trackers used a GPS reciever (Garmin Oregon 650) to record
+ waypoints.
+\end_layout
+
+\begin_layout Subsection*
+Collection, Selection and Preparation of Test insects
+\end_layout
+
+\begin_layout Standard
+CRB used for radio tracking were caught in pheromone traps baited with ethyl
+ 4-methyloctanoate (Oryctalure; P046; ChemTica Iternacional, Heredia, Costa
+ Rica).
+ Beetles were removed from the traps within one week of capture, placed
+ in tubs containing moist peat moss, fed fresh banana slices and allowed
+ to rest for at least three days.
+\end_layout
+
+\begin_layout Standard
+Beetles were selected for flight capability at least one day prior to use
+ in the radio-tracking trial.
+ Groups of about 30 beetles were placed in moist peat moss in a metal bowl
+ which they could exit only by flight.
+ The bowl was supported on a stand inside a flight chamber consisting of
+ a large (121 liter) grabage container and a lid was afixed.
+ Beetles were left in the flight chamber overnight.
+ Those that ended up on the flight chamber floor were deemed to have flown.
+ All others were rejected from the radio-tracking field trial.
+\end_layout
+
+\begin_layout Standard
+Flight-capable beetles were marked with a unique four-digit code engraved
+ on one elytrum using a laser engraver (Fenix Flyer, Synrad Inc., Mukilteo,
+ WA, United States).
+ The sex, mass and elytral dimensions of each beetle were then recorded.
+\end_layout
+
+\begin_layout Standard
+A transmitter were glued to the pronotum of each beetle using a hot-melt
+ glue gun (Fig.
+ 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Radio-tracking-reciever-and"
+
+\end_inset
+
+).
+ Prior to transmitter attachment, the beetle pronotum was abraded with sandpaper
+ to improve adhesion.
+ Each glue-on transmitter had a mass of approximately 300 mg and was secured
+ with approximately 250 mg of adhesive.
+\end_layout
+
+\begin_layout Standard
+Test insects were stored and transported in lidded plastic bins approximately
+ (45 cm by 30 cm by 18 cm) containing about 12 cm of damp peat moss.
+ Because not all beetles were released when first taken into the field,
+ some beetles remained in storage for up to six days.
+\end_layout
+
+\begin_layout Subsection*
+Tracking Procedure
+\end_layout
+
+\begin_layout Standard
+Tagged CRB were radio tracked after release at two locations on Guam: Yigo
+ and Asan (Fig.
+ 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Beetle-tracks."
+
+\end_inset
+
+).
+ Triton Farm University of Guam, Dededo (13°31'56.8"N 144°52'24.0"E) and Asan
+ Beach National Park, Hagåtña (13°27'57.5"N 144°42'39.4"E).
+ Triton Farm is an inland experimental farm bordered by a residential area
+ and uncultivated forest areas that include coconut palms along with other
+ trees.
+ Asan Beach National Park is roughly triangular with the ocean bordering
+ one side, coastal wetlands on another, and forested hillside on the third.
+ The park itself is a large, open, grassy field and includes with coconut
+ palms on the edges, many of which displayed CRB damage at the time of the
+ study.
+ Thus, both sites feature relatively accessible terrain that provides a
+ variety of potential breeding sites as well as adult food sources.
+ At each study location, a grassy, open area was chosen for CRB release.
+\end_layout
+
+\begin_layout Standard
+Weather conditions during the experiment were mainly clear with occasional
+ periods of rain and overcast skies.
+ On release dates, August 8 to August 14, average temperature ranged from
+ 27°C to 29°C while relative humidity was 80% to 88%.
+ Beetles were generally tracked under clear skies with the exception of
+ August 9 during which light showers occurred.
+\end_layout
+
+\begin_layout Standard
+Beetles were transported to release sites in plastic storage bins.
+ The lid of the bin was removed at dusk (roughly 19:30) and the container
+ was closed at roughly 21:30.
+ Once the containers were opened, CRB activity was carefully monitored using
+ an infrared camera.
+ Observation under the infrared camera revealed that beetles thermal profile
+ would change just prior to flight, and thermally active beetles observed
+ emerging from the peat moss were briefly viewed under red light to record
+ the identification number and determine the frequency of the radio transmitter.
+ Though nearly all beetles flew independently, several beetles that had
+ not yet flown by the end of experimentation were encouraged to flight by
+ removing them from the peat moss and throwing them into the air to facilitate
+ takeoff.
+\end_layout
+
+\begin_layout Standard
+CRB were pursued on foot following release and were tracked until a landing
+ site was determined or until the transmitter signal was lost.
+ In either case, a waypoint was recorded at the landing site or the last
+ point of signal reception using a GPS unit.
+\end_layout
+
+\begin_layout Standard
+Landing sites were visited on the following morning, and attempts were made
+ to more precisely determine the location of each beetle.
+ Beetle locations were monitored over several days, and beetles and or transmitt
+ers were recovered when possible at the end of the experiment.
+ CRB and transmitters were successfully recovered by digging up beetles
+ that buried into soil or compost; however the locations of CRB tracked
+ to coconut crowns could not be as exactly determined due to the density
+ of the frond foliage.
+\end_layout
+
+\begin_layout Subsection*
+Analysis
+\end_layout
+
+\begin_layout Standard
+In assessing the flight patterns of beetles for trends between sex and size,
+ percent emergence weight (%EW) was calculated as an additional consideration.
+ Percent emergence weight describes CRB mass at the time of measurement
+ relative to its estimated mass upon emergence.
+ This value can be estimated based upon a linear equation relating elytral
+ measurements and emergence weight (Vander Meer and Mclean, 1975).
+ This value is significant in data analysis because %EW reflects the present
+ life stage of a beetle and how much stored energy it has available; CRB
+ emerge at their heaviest weight and gradually lose weight over their lifespan.
+\end_layout
+
+\begin_layout Standard
+-GIS (Diego)
+\end_layout
+
+\begin_layout Standard
+-stats (Matt)
+\end_layout
+
+\begin_layout Section*
+Results and Discussion
+\end_layout
+
+\begin_layout Standard
+trial done in August 2015 - weather
+\end_layout
+
+\begin_layout Subsection*
+Breeding Site Discovery
+\end_layout
+
+\begin_layout Standard
+Of 34 radio-tagged beetles that were released, 19 were successfully tracked
+ to landing sites, 14 were lost when they flew beyond the range of our receivers
+ and one beetle did not fly (Fig.
+ 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Outcomes-for-radio-tracked"
+
+\end_inset
+
+).
+ Most of CRB tracked to landing sites were in tree tops (n=11) and the rest
+ were on or below the ground (n=8).
+\end_layout
+
+\begin_layout Standard
+Two of the landing sites were confirmed breeding sites as indicated by the
+ presence of other CRB at the same site.
+ 
+\end_layout
+
+\begin_layout Standard
+The first breeding site we discovered by radio-tracking was in an extremely
+ cryptic and unsuspected microhabitat: in a hole in a large rotting branch
+ of a breadfruit tree (
+\emph on
+Artocarpus altilis
+\emph default
+), about six meters above the ground.
+ In this case, the receiver had become detached and the marked beetle was
+ not recovered.
+ However, 3 other CRB adults were occupying the hole.
+ It is highly likely that this breeding site was in a branch broken by high
+ winds experienced when Typhoon Dolphin passed over Guam in May 2015, about
+ 3 months before the radio-tracking trial.
+ 
+\end_layout
+
+\begin_layout Standard
+The second breeding site we discovered was beneath a barrel trap.
+ ...
+ NEED DESCRIPTION
+\end_layout
+
+\begin_layout Standard
+Ten landing sites in coconut palm crowns were considered to be potential
+ breeding sites but we did not have time or equipment to confirm these.
+ Arboreal breeding sites may be common on Guam (
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Mooreb"
+
+\end_inset
+
+).
+\end_layout
+
+\begin_layout Subsection*
+Tracks and Displacement
+\end_layout
+
+\begin_layout Standard
+Distance between release sites and landing sites for the 19 beetles tracked
+ to a landing site.
+ The remaining 14 beetles flew beyond the range of our radio receivers,
+ about 500 m.
+ Mean displacement could not be estimated, but median displacement was 333
+ m, with no significant difference between release sites (Fig.
+ 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Displacement-of-beetles"
+
+\end_inset
+
+).
+\end_layout
+
+\begin_layout Standard
+Maximum range for a single straight-line flight is 4 km, as measured in
+ a lab experiment with tethered beetles on a flight mill.
+ However, from field observations it appears that natural flight is limited
+ to a few hundred meters.
+ In a mark-release-recapture experiment, Kamarudin and Washid measured a
+ dispersal rate of 19m per day.
+ References: Hinckley, A.
+ D.
+ 1973.
+ Ecology of the coconut rhinoceros beetle, Oryctes rhinoceros (Coleoptera:
+ Dynastidae).
+ Biotropica 5 (2):111–116.
+ “Beetles freshly fed on a palm were flown on a tether in the laboratory.
+ Their flight duration averaged between 2 and 3 hours.
+ Distances traveled were between 2 and 4 km.
+ Beetles exhausted by such long flights were held in moist soil or wood
+ for a day or two, after which they could again fly, although seldom longer
+ than 30 minutes.” Kamarudin, Norman and Mohd B.
+ Washid.
+ 2004.
+ Immigration and activity of Oryctes rhinoceros within a small oil palm
+ replanting area.
+ Journal of Oil Palm Research 16 (2):64–77.
+ “Based on the capture, mark, release and recapture experiment using pheromone
+ traps, the beetle’s ability to fly was estimated at about 19 m day-1 or
+ more than 130 m in a week.
+ The range covered was estimated at 10-23 m day-1.
+ This suggests that the flight of beetles within a replanting area is quite
+ limited because of the abundance of food and breeding sites.” “Earlier reports
+ have suggested the ability of the beetle to fly considerably long distances
+ (Nirula, 1955; Hinckley, 1973).
+ A distance recorded in the field was about 700 m (Monty, 1974).
+ However, a laboratory experiment has indicated that the beetle can fly
+ up to 2 to 4 km in 2 to 3 hr (Hinckley, 1973).
+ Liau and Ahmad (1991) reported a flying distance of 140 m into a replanting
+ area.
+ This was in the case of migration to new breeding areas.
+ But in this study, which was done within a replanting area, the beetle
+ was noted to fly less (estimated around 19 m day-1, and about 133 m a week)
+ (Table 5).
+ These values may be below the actual flight potential as their flights
+ were monitored using pheromone traps.
+ However, the conducive environment, availability of food and abundant breeding
+ sites in the replanting area logically play a role in the flight distance.”
+\end_layout
+
+\begin_layout Subsection*
+Mass relationships
+\end_layout
+
+\begin_layout Standard
+Masses of CRB landing on the ground were not significantly different than
+ those landing in treetops for females (4.486 g, 4.407 g; Welch's t = 0.117;
+ p = 0.914) and males (3.638 g; 5.043 g; Welch's t = -2.2749; p = 0.053).
+\end_layout
+
+\begin_layout Standard
+However, percent emergence weights of CRB landing on the ground were higher
+ than those landing in treetops (Fig.
+ 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Percent-emergence-weight"
+
+\end_inset
+
+).
+ A possible explanation for this observation is that individuals with low
+ percent emergence weight were hungry and therefore flew to treetops in
+ order to bore into crowns to feed and beetles with lower percent emergence
+ weight were searching for breeding sites and/or mates.
+\end_layout
+
+\begin_layout Subsection*
+Response to Traps
+\end_layout
+
+\begin_layout Standard
+Despite the fact that beetles were released within proximity of active phermone
+ traps, none were trapped.
+ The mean trap catch rate of pheromone traps at the Yigo experiment station
+ during August 2015 was 0.03 beetles per trap-day for standard bucket traps
+ (n=3 traps), 0.13 for barrel traps (n=31), and 0.15 for DeFence traps (n=4).
+ In addition, no marked beetles were trapped in fish gill netting draped
+ over a greenwaste pile at the Yigo site.
+ This pile trapped 0.50 beetles per trap-day during August 2015.
+ 
+\series bold
+TRAP CATCH DATA FOR ASAN NEEDED.
+ 
+\end_layout
+
+\begin_layout Standard
+If we assume that the wild beetles respond to traps in the same way as the
+ radio-tagged beetles, then we can estimate that the suite of traps in the
+ vicinity of the the release points catches less than one in 33 (<3%) of
+ wild beetles.
+ The low trap performance is consistant with results from previous mark-release-
+recapture data from Guam (Moore, unpublished).
+ It is possible that oryctalure is less attractive to individuals of the
+ CRB Guam biotype is lower than to individuals of other other biotypes.
+ Results indicate that none of the currently available CRB trapping methods
+ are usefull for population reduction of CRB-Guam.
+\end_layout
+
+\begin_layout Section*
+Acknowledgments
+\end_layout
+
+\begin_layout Standard
+Sheri Lee Smith, US Forest Service, War in the Pacific Park, Roland Quitugua
+ and staff of the Guam Coconut Rhinoceros Beetle Project.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+bibfiles "refs2"
+options "elsarticle-harv"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+\begin_inset Newpage newpage
+\end_inset
+
+BEGIN EXTRA
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+The following stuff is from previous versions.
+ Kept here for reference and possible inclusion.
 \end_layout
 
 \begin_layout Standard
@@ -370,349 +935,6 @@ The semio-chemical communication adult CRB utilize to find mates in breeding
  breeding sites, which could then be treated, removed or destroyed.
 \end_layout
 
-\begin_layout Section*
-Materials and Methods
-\end_layout
-
-\begin_layout Subsection*
-Release sites and experimental conditions
-\end_layout
-
-\begin_layout Standard
-Tagged CRB were radio tracked after release at two locations on Guam: Triton
- Farm University of Guam, Dededo (13°31'56.8"N 144°52'24.0"E) and Asan Beach
- National Park, Hagåtña (13°27'57.5"N 144°42'39.4"E).
- Triton Farm is an inland experimental farm bordered by a residential area
- and uncultivated forest areas that include coconut palms along with other
- trees.
- Asan Beach National Park is roughly triangular with the ocean bordering
- one side, coastal wetlands on another, and forested hillside on the third.
- The park itself is a large, open, grassy field and includes with coconut
- palms on the edges, many of which displayed CRB damage at the time of the
- study.
- Thus, both sites feature relatively accessible terrain that provides a
- variety of potential breeding sites as well as adult food sources.
- At each study location, a grassy, open area was chosen for CRB release.
-\end_layout
-
-\begin_layout Standard
-Weather conditions during the experiment were mainly clear with occasional
- periods of rain and overcast skies.
- On release dates, August 8 to August 14, average temperature ranged from
- 27°C to 29°C while relative humidity was 80% to 88%.
- Beetles were generally tracked under clear skies with the exception of
- August 9 during which light showers occurred.
-\end_layout
-
-\begin_layout Subsection*
-Oryctes rhinoceros capture and specimen selection
-\end_layout
-
-\begin_layout Standard
-CRB used for radio tracking were wild-caught in bucket traps containing
- oryctalure and collected within one week of capture.
- These beetles were placed in tubs containing moist peat moss, fed fresh
- banana slices and allowed to rest for at least three days.
-\end_layout
-
-\begin_layout Standard
-Only CRB capable of flight were selected for radio tagging and release.
- After the rest period, captured beetles were flight tested at least one
- day prior to experimentation.
- The flight test chamber consisted of a large 121 L lidded garbage container.
- Within the chamber, about 30 beetles were placed in a smaller open metal
- bowl half filled with moist peat moss atop an upside down 19 L bucket.
- Beetles could only exit the smaller open container by flying out of it;
- therefore, any beetle found on the bottom of the flight chamber container
- the next morning was considered flight-capable.
- Flight capable CRB were transported and stored until release in lidded
- plastic bins approximately 45 cm by 30 cm by 18 cm containing 4 to 6 inches
- of damp peat moss.
- Because not all beetles flew when first taken into the field, some beetles
- remained in storage for up to six days.
-\end_layout
-
-\begin_layout Subsection*
-CRB preparation
-\end_layout
-
-\begin_layout Standard
-Beetles that demonstrated flight capacity were marked with a unique four-digit
- code engraved on one elytrum using a laser engraver (Fenix Flyer, Synrad
- Inc., Mukilteo, WA, United States).
- The sex, mass and elytral dimensions of each beetle were then recorded.
- Both male and female specimens were used.
-\end_layout
-
-\begin_layout Standard
-Prior to transmitter attachment, the beetle pronotum was abraded with sandpaper
- to improve adhesion.
- Transmitters were then affixed to the pronotum with hot melt glue (product
- xxxx company location xxx model number xxx)(Figure XX picture?) and steady
- pressure was applied as the adhesive hardened.
- Each glue-on transmitter (model A2414; Advanced Telemetry Systems; Isanti,
- Minnesota) had a mass of approximately 300 mg and was secured with approximatel
-y 250 mg of adhesive.
-\end_layout
-
-\begin_layout Subsection*
-Tracking equipment
-\end_layout
-
-\begin_layout Standard
-Transmitters had a maximum battery life of 45 days with a warranty guarantee
- of 22 days.
- Two frequency bands were chosen ranging from 148.641 to 148.992 and 164.032
- to 164.409.
- Frequencies used with individual CRB were recorded in conjunction with
- beetle identification numbers.
-\end_layout
-
-\begin_layout Standard
-Beetles were tracked using a radio receiver (model R410, Advanced Telemetry
- Systems, Isanti, Minnesota) equipped with a three-element folding Yagi
- antenna (model 13863, Advanced Telemetry Systems, Isanti, Minnesota) attached
- to a.
- A total of four units were used so that multiple beetles could be tracked
- simultaneously: two receivers were programmed with bandwidths from 148.641
- to 148.992 and two with bandwidths 164.032 to 164.409.
- In addition to radio tracking equipment, handheld GPS units (model XXX,
- Garmin, XXX) were used to record locations where beetles were found or
- point of signal loss for each beetle.
-\end_layout
-
-\begin_layout Subsection*
-Beetle release and tracking procedure
-\end_layout
-
-\begin_layout Standard
-Beetles were transported to release sites in plastic storage bins.
- The lid of the bin was removed at dusk (roughly 19:30) and the container
- was closed at roughly 21:30.
- Once the containers were opened, CRB activity was carefully monitored using
- an infrared camera.
- Observation under the infrared camera revealed that beetles thermal profile
- would change just prior to flight, and thermally active beetles observed
- emerging from the peat moss were briefly viewed under red light to record
- the identification number and determine the frequency of the radio transmitter.
- Though nearly all beetles flew independently, several beetles that had
- not yet flown by the end of experimentation were encouraged to flight by
- removing them from the peat moss and throwing them into the air to facilitate
- takeoff.
-\end_layout
-
-\begin_layout Standard
-CRB were pursued on foot following release and were tracked until a landing
- site was determined or until the transmitter signal was lost.
- In either case, a waypoint was recorded at the landing site or the last
- point of signal reception using a GPS unit.
-\end_layout
-
-\begin_layout Standard
-Landing sites were visited on the following morning, and attempts were made
- to more precisely determine the location of each beetle.
- Beetle locations were monitored over several days, and beetles and or transmitt
-ers were recovered when possible at the end of the experiment.
- CRB and transmitters were successfully recovered by digging up beetles
- that buried into soil or compost; however the locations of CRB tracked
- to coconut crowns could not be as exactly determined due to the density
- of the frond foliage.
-\end_layout
-
-\begin_layout Subsection*
-Analysis
-\end_layout
-
-\begin_layout Standard
-In assessing the flight patterns of beetles for trends between sex and size,
- percent emergence weight (%EW) was calculated as an additional consideration.
- Percent emergence weight describes CRB mass at the time of measurement
- relative to its estimated mass upon emergence.
- This value can be estimated based upon a linear equation relating elytral
- measurements and emergence weight (Vander Meer and Mclean, 1975).
- This value is significant in data analysis because %EW reflects the present
- life stage of a beetle and how much stored energy it has available; CRB
- emerge at their heaviest weight and gradually lose weight over their lifespan.
-\end_layout
-
-\begin_layout Standard
--GIS (Diego)
-\end_layout
-
-\begin_layout Standard
--stats (Matt)
-\end_layout
-
-\begin_layout Section*
-Results and Discussion
-\end_layout
-
-\begin_layout Subsection*
-Tracks, Displacement
-\end_layout
-
-\begin_layout Standard
-\begin_inset Float figure
-wide false
-sideways false
-status open
-
-\begin_layout Plain Layout
-\align center
-\begin_inset Graphics
-	filename outcomes.png
-	lyxscale 70
-	width 100text%
-	height 100theight%
-	keepAspectRatio
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-Outcomes for radio-tracked beetles.
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Float figure
-wide false
-sideways false
-status open
-
-\begin_layout Plain Layout
-\begin_inset Float figure
-wide false
-sideways false
-status open
-
-\begin_layout Plain Layout
-\align center
-\begin_inset Graphics
-	filename yigo_tracks.jpg
-	lyxscale 20
-	width 100text%
-	height 100theight%
-	keepAspectRatio
-	groupId tracks figures
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-Yigo
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Float figure
-wide false
-sideways false
-status open
-
-\begin_layout Plain Layout
-\align center
-\begin_inset Graphics
-	filename asan_tracks.jpg
-	lyxscale 20
-	width 100text%
-	height 100theight%
-	keepAspectRatio
-	groupId tracks figures
-
-\end_inset
-
-
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-Asan
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-Beetle tracks.
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection*
-Breeding sites found
-\end_layout
-
-\begin_layout Subsection*
-Trees vs Ground
-\end_layout
-
-\begin_layout Subsection*
-Mass relationships
-\end_layout
-
-\begin_layout Subsection*
-No beetles in pheromone traps or netted piles
-\end_layout
-
 \begin_layout Standard
 The tagging and radio tracking of CRB in this study led to the successful
  location of multiple cryptic breeding sites at both experiment sites.
@@ -809,7 +1031,7 @@ This study was successful in tracking CRB to cryptic breeding sites at two
  the retrieval of released CRB.
 \end_layout
 
-\begin_layout Section*
+\begin_layout Subsection*
 ANECTDOTAL LOCATIONS
 \end_layout
 
@@ -944,18 +1166,56 @@ ely 500 meters from breeding sites.
 \end_layout
 
 \begin_layout Section*
-COMPARATIVE TO OTHER METHODS
+END EXTRA
 \end_layout
 
-\begin_layout Standard
+\begin_layout Section*
 \begin_inset Newpage pagebreak
 \end_inset
 
 
-\begin_inset CommandInset bibtex
-LatexCommand bibtex
-bibfiles "crb_refs,FailureAnalysis"
-options "plainnat"
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename aubrey_yagi_crb_cropped.png
+	lyxscale 25
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Radio-tracking-reciever-and"
+
+\end_inset
+
+Radio-tracking reciever and coconut rhinoceros beetle with transmitter glued
+ to pronotum.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
 
 \end_inset
 
@@ -970,37 +1230,38 @@ sideways false
 status open
 
 \begin_layout Plain Layout
+\align center
 \begin_inset Graphics
-	filename statsfig.png
-	lyxscale 40
+	filename outcomes.png
+	lyxscale 70
 	width 100text%
+	height 100theight%
+	keepAspectRatio
 
 \end_inset
 
- 
+
+\end_layout
+
+\begin_layout Plain Layout
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
 \begin_inset CommandInset label
 LatexCommand label
-name "fig:statsfig"
+name "fig:Outcomes-for-radio-tracked"
 
 \end_inset
 
-Radio tracked coconut rhinoceros beetles grouped by microhabitat of discovery
- location.
- (A) Numbers of beetles tracked to different microhabitats including an
- indication of percent emergence weight.
- (B) Percentage emergence weight of beetles (mean ± SE) grouped by microhabitat.
- Lower case letters represent significant differences (p < 0.05) between
- beetles found in different microhabitats (Tukey’s HSD).
- Greek letters represent significant differences between beetles tracked
- to arboreal microhabitats (> 1 m above ground) or soil-associated microhabitats
- (< 1 m above ground) (t-test, p < 0.001).
+Outcomes for radio-tracked beetles.
 \end_layout
 
 \end_inset
 
+
+\end_layout
+
+\begin_layout Plain Layout
 
 \end_layout
 
@@ -1010,20 +1271,292 @@ Radio tracked coconut rhinoceros beetles grouped by microhabitat of discovery
 \end_layout
 
 \begin_layout Standard
-\begin_inset Float table
+\align center
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename yigo_tracks.jpg
+	lyxscale 50
+	width 100text%
+	height 40theight%
+	keepAspectRatio
+	groupId tracks figures
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Yigo release site.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename asan_tracks.jpg
+	lyxscale 50
+	width 100text%
+	height 40theight%
+	keepAspectRatio
+	groupId tracks figures
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Asan release site.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Beetle-tracks."
+
+\end_inset
+
+Results of radio-tracking coconut rhinoceros beetles at the Yigo and Asan
+ release sites.
+ Pushpin icons represent waypoints for tracked beetles (color code: red
+ = beetle ended up in crown of tree; yellow: beetle ended up on or below
+ the ground; orange: beetle was lost when it flew beyond the range of radio-trac
+king receivers, orange lines are extrapolated tracks based on last observed
+ bearing of radio signal).
+ Circular icons represent pheromone traps (color code: cyan = barrel trap;
+ orange = DeFence trap; red = bucket trap).
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
 placement p
 wide false
 sideways false
 status open
 
 \begin_layout Plain Layout
-\begin_inset CommandInset include
-LatexCommand input
-filename "table.lyx"
+\align center
+\begin_inset Graphics
+	filename displacement.png
+	width 100text%
+	height 100theight%
+	keepAspectRatio
 
 \end_inset
 
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Displacement-of-beetles"
+
+\end_inset
+
+Displacement of beetles from release points within 48 h.
+ The points at 500 m indicate beetles that flew beyond the range of the
+ radio-tracking recievers.
+ Difference between medians for beetles released at the two sites (Asan:
+ 418 m; Yigo: 275 m) are not significantly different (p = 0.36; bootstrap
+ resampling with 10,000 iterations).
+ Pooled median displacement was 333 m.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename outcome_vs_pew_females.png
+	width 100text%
+	height 45theight%
+	keepAspectRatio
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Females.
+ Mean percent emergence weights for female beetles tracked to ground and
+ tree top sites were not significantly different (82%, 74% respectively;
+ Welch's t = 1.608; p = 0.195).
  
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename outcome_vs_pew_males.png
+	lyxscale 50
+	width 100text%
+	height 40theight%
+	keepAspectRatio
+	groupId tracks figures
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Males.
+ Mean percent emergence weights for female beetles tracked to ground and
+ tree top sites were not significantly different (87%, 72% respectively;
+ Welch's t = 4.174; p = 0.008).
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Percent-emergence-weight"
+
+\end_inset
+
+Percent emergence weight of beetles tracked to ground sites and tree top
+ sites.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
 \end_layout
 
 \end_inset
