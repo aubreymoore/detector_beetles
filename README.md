@@ -24,3 +24,4 @@ A journal article on the field trial is being prepared using LyX (version 2.1.4)
 
 ### Output
 * [detector_beetles.pdf](https://github.com/aubreymoore/detector_beetles/blob/master/4045191vqgrvx/detector_beetles.pdf)
+* [detector_beetles.txt](https://github.com/aubreymoore/detector_beetles/blob/master/4045191vqgrvx/detector_beetles.txt)
