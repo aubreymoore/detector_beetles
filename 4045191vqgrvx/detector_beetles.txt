@@ -491,7 +491,7 @@ represent pheromone traps (color code: cyan = barrel trap; orange
 ]
 
 [float Figure:
-<Graphics file: /home/aubreymoore/Dropbox/detectorBeetles/Aubrey Analysis/4045191vqgrvx/displacement.png>
+<Graphics file: /home/aubreymoore/Dropbox/detectorBeetles/Aubrey Analysis/4045191vqgrvx/displacement.pdf>
 
 [Figure 4:
 <fig:Displacement-of-beetles>Displacement of beetles from release 
@@ -508,7 +508,7 @@ displacement was 333 m.
 
 [float Figure:
 [float Figure:
-<Graphics file: /home/aubreymoore/Dropbox/detectorBeetles/Aubrey Analysis/4045191vqgrvx/outcome_vs_pew_females.png>
+<Graphics file: /home/aubreymoore/Dropbox/detectorBeetles/Aubrey Analysis/4045191vqgrvx/outcome_vs_pew_females.pdf>
 
 [Sub-Figure a:
 Females. Mean per cent emergent weight for female beetles tracked 
@@ -520,7 +520,7 @@ to ground and tree top sites were not significantly different
 ]
 
 [float Figure:
-<Graphics file: /home/aubreymoore/Dropbox/detectorBeetles/Aubrey Analysis/4045191vqgrvx/outcome_vs_pew_males.png>
+<Graphics file: /home/aubreymoore/Dropbox/detectorBeetles/Aubrey Analysis/4045191vqgrvx/outcome_vs_pew_males.pdf>
 
 [Sub-Figure b:
 Males. Mean per cent emergent weight for male beetles tracked to 

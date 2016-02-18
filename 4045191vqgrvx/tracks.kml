@@ -91,7 +91,7 @@
         <Placemark id="feat_3">
             <styleUrl>#stylesel_1</styleUrl>
             <LineString id="geom_1">
-                <coordinates>144.708633,13.473933,0.0 144.7090195,13.4694311115,0.0</coordinates>
+                <coordinates>144.708633,13.473933,0.0 144.708862754,13.4694208476,0.0</coordinates>
             </LineString>
         </Placemark>
         <Placemark id="feat_4">
@@ -118,7 +118,7 @@
         <Placemark id="feat_7">
             <styleUrl>#stylesel_1</styleUrl>
             <LineString id="geom_5">
-                <coordinates>144.707141,13.472575,0.0 144.702533,13.4723065963,0.0</coordinates>
+                <coordinates>144.707141,13.472575,0.0 144.702535759,13.4728855417,0.0</coordinates>
             </LineString>
         </Placemark>
         <Placemark id="feat_8">
@@ -138,7 +138,7 @@
         <Placemark id="feat_10">
             <styleUrl>#stylesel_1</styleUrl>
             <LineString id="geom_8">
-                <coordinates>144.708537,13.473904,0.0 144.703920825,13.4739142881,0.0</coordinates>
+                <coordinates>144.708537,13.473904,0.0 144.70392793,13.4736532787,0.0</coordinates>
             </LineString>
         </Placemark>
         <Placemark id="feat_11">
@@ -165,7 +165,7 @@
         <Placemark id="feat_14">
             <styleUrl>#stylesel_1</styleUrl>
             <LineString id="geom_12">
-                <coordinates>144.708416,13.473374,0.0 144.708640231,13.468861582,0.0</coordinates>
+                <coordinates>144.708416,13.473374,0.0 144.708145882,13.4688639909,0.0</coordinates>
             </LineString>
         </Placemark>
         <Placemark id="feat_15">
@@ -199,7 +199,7 @@
         <Placemark id="feat_19">
             <styleUrl>#stylesel_1</styleUrl>
             <LineString id="geom_17">
-                <coordinates>144.8723,13.52985,0.0 144.870784878,13.5255819272,0.0</coordinates>
+                <coordinates>144.8723,13.52985,0.0 144.871201477,13.5254615071,0.0</coordinates>
             </LineString>
         </Placemark>
         <Placemark id="feat_20">
@@ -240,7 +240,7 @@
         <Placemark id="feat_25">
             <styleUrl>#stylesel_1</styleUrl>
             <LineString id="geom_23">
-                <coordinates>144.87275,13.531333,0.0 144.875869728,13.5280018401,0.0</coordinates>
+                <coordinates>144.87275,13.531333,0.0 144.875777596,13.5279214265,0.0</coordinates>
             </LineString>
         </Placemark>
         <Placemark id="feat_26">
@@ -267,7 +267,7 @@
         <Placemark id="feat_29">
             <styleUrl>#stylesel_1</styleUrl>
             <LineString id="geom_27">
-                <coordinates>144.872683,13.529167,0.0 144.872608239,13.5246493846,0.0</coordinates>
+                <coordinates>144.872683,13.529167,0.0 144.872278062,13.5246661988,0.0</coordinates>
             </LineString>
         </Placemark>
         <Placemark id="feat_30">
@@ -287,7 +287,7 @@
         <Placemark id="feat_32">
             <styleUrl>#stylesel_1</styleUrl>
             <LineString id="geom_30">
-                <coordinates>144.708537,13.473904,0.0 144.703921863,13.4738077016,0.0</coordinates>
+                <coordinates>144.708537,13.473904,0.0 144.703921067,13.4738566898,0.0</coordinates>
             </LineString>
         </Placemark>
         <Placemark id="feat_33">
@@ -335,7 +335,7 @@
         <Placemark id="feat_39">
             <styleUrl>#stylesel_1</styleUrl>
             <LineString id="geom_37">
-                <coordinates>144.87166,13.53251,0.0 144.86840244,13.535712403,0.0</coordinates>
+                <coordinates>144.87166,13.53251,0.0 144.868351986,13.5356625014,0.0</coordinates>
             </LineString>
         </Placemark>
         <Placemark id="feat_40">
@@ -376,7 +376,7 @@
         <Placemark id="feat_45">
             <styleUrl>#stylesel_1</styleUrl>
             <LineString id="geom_43">
-                <coordinates>144.70845,13.47444,0.0 144.70784666,13.4789189952,0.0</coordinates>
+                <coordinates>144.70845,13.47444,0.0 144.707369655,13.4788322855,0.0</coordinates>
             </LineString>
         </Placemark>
         <Placemark id="feat_46">
@@ -417,7 +417,7 @@
         <Placemark id="feat_51">
             <styleUrl>#stylesel_1</styleUrl>
             <LineString id="geom_49">
-                <coordinates>144.707277,13.472615,0.0 144.707420229,13.4680994274,0.0</coordinates>
+                <coordinates>144.707277,13.472615,0.0 144.707266859,13.4680972633,0.0</coordinates>
             </LineString>
         </Placemark>
         <Placemark id="feat_52">
