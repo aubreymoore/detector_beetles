@@ -1137,7 +1137,7 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename displacement.png
+	filename displacement.pdf
 	width 100text%
 	height 100theight%
 	keepAspectRatio
@@ -1195,7 +1195,7 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename outcome_vs_pew_females.png
+	filename outcome_vs_pew_females.pdf
 	width 100text%
 	height 45theight%
 	keepAspectRatio
@@ -1239,7 +1239,7 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename outcome_vs_pew_males.png
+	filename outcome_vs_pew_males.pdf
 	width 100text%
 	height 40theight%
 	keepAspectRatio

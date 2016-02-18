@@ -165,7 +165,7 @@ key "Campbell2005"
  Recent development of light-weight, miniaturized radio-tracking transmitters
  now allows application of this technique to insects and other small animals
  which aggregate.
- Here, we report on a field trial to determine the feasability of radio-tracking
+ Here, we report on a field trial to determine the feasibility of radio-tracking
  coconut rhinoceros beetles (CRB), 
 \emph on
 Oryctes rhinoceros
@@ -198,15 +198,15 @@ What proportion of a CRB population is found in breeding sites?
 
 \end_inset
 
- When CRB breeding sites are abundent following damage from typhoons, war,
+ When CRB breeding sites are abundant following damage from typhoons, war,
  or large scale agricultural operations, a self sustaining positive feedback
  loop may be initiated where large numbers of CRB adults kill large numbers
  of palms creating new breeding sites which generate even more CRB.
- This worst case scenerio was observed in Palau when CRB arrived near the
- end of World War II.
- A CRB population outbreak was fueled by availablity of abundant breeding
+ This worst case scenario was observed in the Palau Islands when CRB arrived
+ near the end of World War II.
+ A CRB population outbreak was fueled by availability of abundant breeding
  sites in the form of trees killed by military activities.
- Fifty per cent of coconut palms were killed by CRB throughout the Palau
+ Fifty per cent of coconut palms were killed by CRB throughout the Parlay
  Islands and some of the smaller islands lost all of their coconut palms
  
 \begin_inset CommandInset citation
@@ -284,7 +284,7 @@ key "Hallett1995"
 \begin_layout Standard
 Despite these efforts, CRB damage in central Tumon Bay remained high and
  the infestation spread to all parts of Guam by 2010 making eradication
- unfeasable.
+ unfeasible.
  Attempts at population suppression using 
 \emph on
 Oryctes
@@ -329,7 +329,8 @@ Eradication of CRB from an island is difficult once this pest has become
  established.
  The only proven tactic for eradication is a vigorous sanitation program
  which discovers and destroys all active and potential breeding sites.
- The single successful CRB eradication to date occured on the tiny (36 km
+ The single successful CRB eradication to date occur ed on the tiny (36
+ km
 \begin_inset script superscript
 
 \begin_layout Plain Layout
@@ -378,7 +379,7 @@ As previously mentioned, four detector dogs for CRB were trained and employed
  stages of eradication.
  The detector dogs were a very expensive component of the Guam CRB eradication
  program and they were retired after two years of service when it became
- evident that eradication was no longer feasable.
+ evident that eradication was no longer feasible.
 \end_layout
 
 \begin_layout Standard
@@ -407,7 +408,7 @@ All radio tracking equipment was purchased from Advanced Telemetry Systems,
 \end_layout
 
 \begin_layout Standard
-We used four R410 scanning receivers equiped with three-element folding
+We used four R410 scanning receivers equipped with three-element folding
  Yagi antennas (Fig.
  
 \begin_inset CommandInset ref
@@ -417,13 +418,13 @@ reference "fig:Radio-tracking-reciever-and"
 \end_inset
 
 ).
- Two recievers operated in the 146 to 150 MHz frequency band and two operated
+ Two receivers operated in the 146 to 150 MHz frequency band and two operated
  in the 162 to 166 MHz band.
  
 \end_layout
 
 \begin_layout Standard
-Each of the 4 trackers used a GPS reciever (Garmin Oregon 650) to record
+Each of the 4 trackers used a GPS receiver (Garmin Oregon 650) to record
  waypoints.
 \end_layout
 
@@ -446,7 +447,7 @@ Beetles were selected for flight capability at least one day prior to use
  Groups of about 30 beetles were placed in moist peat moss in a metal bowl
  which they could exit only by flight.
  The bowl was supported on a stand inside a flight chamber consisting of
- a large (121 liter) grabage container and a lid was afixed.
+ a large (121 liter) garbage container and a lid was affixed.
  Beetles were left in the flight chamber overnight.
  Those that ended up on the flight chamber floor were deemed to have flown.
  All others were rejected from the radio-tracking field trial.
@@ -460,7 +461,7 @@ Flight-capable beetles were marked with a unique four-digit code engraved
 \end_layout
 
 \begin_layout Standard
-A transmitter were glued to the pronotum of each beetle using a hot-melt
+A transmitter was glued to the pronotum of each beetle using a hot-melt
  glue gun (Fig.
  
 \begin_inset CommandInset ref
@@ -777,7 +778,7 @@ key "Kamarudin2004a"
  Five of these beetles were recaptured in traps and displacement was calculated.
  Unfortunately, the total number of marked beetles released is not reported.
  Displacement averaged 118 m with a range of 51 m to 186 m.
- The authors acknowledg shortcomings of their study: 
+ The authors acknowledge shortcomings of their study: 
 \begin_inset Quotes eld
 \end_inset
 
@@ -821,7 +822,7 @@ Response to Traps
 \end_layout
 
 \begin_layout Standard
-Despite the fact that beetles were released within proximity of active phermone
+Despite the fact that beetles were released within proximity of active pheromone
  traps, none were trapped.
  The mean trap catch rate of pheromone traps at the Yigo experiment station
  during August 2015 was 0.03 beetles per trap-day for standard bucket traps
@@ -840,13 +841,13 @@ If we assume that the wild beetles respond to traps in the same way as the
  radio-tagged beetles, then we can estimate that the suite of traps in the
  vicinity of the the release points catches less than one in 33 (<3%) of
  wild beetles.
- This low trap performance is consistant with results from previous mark-release
+ This low trap performance is consistent with results from previous mark-release
 -recapture data from Guam (A.
  M., unpublished).
  It is possible that oryctalure is less attractive to individuals of the
  CRB Guam biotype than to individuals of other other biotypes.
  Results indicate that none of the currently available CRB trapping methods
- are usefull for population reduction of CRB-Guam.
+ are useful for population reduction of CRB-Guam.
 \end_layout
 
 \begin_layout Subsection*
@@ -868,7 +869,7 @@ CRB has characteristics which make this species a good candidate for radio
 \end_layout
 
 \begin_layout Standard
-Our feasability study was a success in that all but one of the 34 radio-tagged
+Our feasibility study was a success in that all but one of the 34 radio-tagged
  beetles flew and two of these were tracked to cryptic breeding sites confirmed
  by the presence of other CRB.
  If this 'Judas beetle' method is to be used in an eradication program,
@@ -942,7 +943,7 @@ name "fig:Radio-tracking-reciever-and"
 
 \end_inset
 
-Radio-tracking reciever and coconut rhinoceros beetle with transmitter glued
+Radio-tracking receiver and coconut rhinoceros beetle with transmitter glued
  to pronotum.
 \end_layout
 
@@ -1158,7 +1159,7 @@ name "fig:Displacement-of-beetles"
 
 Displacement of beetles from release points within 48 h.
  The points at 500 m indicate beetles that flew beyond the range of the
- radio-tracking recievers.
+ radio-tracking receivers.
  Difference between medians for beetles released at the two sites (Asan:
  418 m; Yigo: 275 m) are not significantly different (p = 0.36; bootstrap
  resampling with 10,000 iterations).

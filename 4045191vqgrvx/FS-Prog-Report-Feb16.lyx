@@ -1,0 +1,307 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass scrartcl
+\begin_preamble
+
+%\usepackage{fullpage}
+\usepackage{pdfpages}\usepackage{framed}\usepackage[toc,page]{appendix}%\setcounter{tocdepth}{2} % suppress display of subsubsections in TOC
+\usepackage{booktabs}
+\usepackage{hyperref}
+\end_preamble
+\use_default_options false
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref true
+\pdf_title "t"
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks true
+\pdf_pdfborder true
+\pdf_colorlinks true
+\pdf_backref section
+\pdf_pdfusetitle true
+\pdf_quoted_options "linkcolor=blue,urlcolor=blue,citecolor=blue"
+\papersize letterpaper
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine natbib
+\cite_engine_type authoryear
+\biblio_style plainnat
+\use_bibtopic true
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\boxbgcolor #dcdcdc
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+
+\size large
+Guam Coconut Rhinoceros Beetle Project
+\size default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename logo.pdf
+	scale 50
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset VSpace 0.5in
+\end_inset
+
+
+\size large
+PROGRESS REPORT
+\begin_inset Newline newline
+\end_inset
+
+for USDA Forest Service Grant 15-DG-11052021-205
+\begin_inset Newline newline
+\end_inset
+
+
+\size huge
+Radio-Tracking Coconut Rhinoceros Beetles (CRB)
+\begin_inset Newline newline
+\end_inset
+
+and
+\begin_inset Newline newline
+\end_inset
+
+CRB Biocontrol
+\end_layout
+
+\begin_layout Author
+Prepared by
+\begin_inset Newline newline
+\end_inset
+
+Aubrey Moore
+\begin_inset Newline newline
+\end_inset
+
+University of Guam Cooperative Extension Service
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Shaded
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Section*
+Summary of Progress
+\end_layout
+
+\begin_layout Plain Layout
+The original objective of this project was to perform a field trial to test
+ the feasibility of radio-tracking CRB to find cryptic breeding sites.
+ With the availability of extra funding in July 2015, the project was extended
+ to work on trying to find a strain of Oryctes nudivirus (OrNV) which is
+ pathogenic for the CRB-Guam biotype.
+\end_layout
+
+\begin_layout Subsection*
+Detector Beetles
+\end_layout
+
+\begin_layout Subsubsection*
+Objectives (as stated in the approved work plan)
+\end_layout
+
+\begin_layout Itemize
+to develop radio tracking techniques to follow adult CRB in the field 
+\end_layout
+
+\begin_layout Itemize
+to find at least one undiscovered CRB breeding site
+\end_layout
+
+\begin_layout Subsubsection*
+Progress
+\end_layout
+
+\begin_layout Itemize
+The field trial was completed during August 2015 by a research team that
+ included Dr.
+ Matthew Siderhurst and his students, Kat Lehmann and Diego Barahona from
+ Eastern Mennonite University, Virginia; Domenick Skabeikis from the USDA
+ Pacific Basin Research Center in Hilo, Hawaii; and Ian Iriarte and Aubrey
+ Moore from the University of Guam.
+ 
+\end_layout
+
+\begin_layout Itemize
+Both project objectives were met.
+ Nineteen beetles were tracked to landing points and two of these were cryptic
+ breeding sites.
+\end_layout
+
+\begin_layout Itemize
+A journal article is in preparation by the research team (Appendix 1) and
+ this project was featured in the 2015 Western Pacific Research Center Impact
+ Report (Appendix 2).
+\end_layout
+
+\begin_layout Subsection*
+OrNV for CRB-Guam
+\end_layout
+
+\begin_layout Subsubsection*
+Objectives (as stated in the approved work plan)
+\end_layout
+
+\begin_layout Itemize
+to find an OrNV strain which is highly pathogenic for the CRB-Guam biotype
+ 
+\end_layout
+
+\begin_layout Itemize
+establishment of an insect pathology lab at the University of Guam to be
+ used for applied research in CRB biocontrol
+\end_layout
+
+\begin_layout Subsubsection*
+Progress
+\end_layout
+
+\begin_layout Itemize
+laboratory supplies have been acquired
+\end_layout
+
+\begin_layout Itemize
+Ian Iriarte has been recruited to work as a technician on this project.
+ He starts work in this position on February 22, 2016.
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+\begin_inset Newpage newpage
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Appendix-1--"
+
+\end_inset
+
+Appendix 1 - Draft Journal Article
+\end_layout
+
+\begin_layout Standard
+\begin_inset External
+	template PDFPages
+	filename detector_beetles_ebook.pdf
+	display false
+	extra LaTeX "pages=-"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Appendix-2--"
+
+\end_inset
+
+Appendix 2 - Article in 2015 Western Pacific Research Center Impact Report
+\end_layout
+
+\begin_layout Standard
+\begin_inset External
+	template PDFPages
+	filename 2015impactweb.pdf
+	display false
+	extra LaTeX "pages={1,24-25}"
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
